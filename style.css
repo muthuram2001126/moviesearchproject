@@ -43,7 +43,7 @@
   input{
     /* all:unset; */
     font:15px system-ui;
-    color:black
+    color:black;
     height: 100%;
     width: 100%;
     padding: 6px 9px;
